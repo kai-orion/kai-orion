@@ -21,4 +21,4 @@ Not long after I came into contact with front-end technology, I opened some simp
 
 
 
-![Picture](./Resource/homepage.png)
+![Picture](./Resource/homepage-static.png)
