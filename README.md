@@ -1,24 +1,17 @@
-## Hello GitHub :smile:
+## :wave: Hi There
 
-Not long after I came into contact with front-end technology, I opened some simple static web pages to GitHub as toys. Commit a branch to me if you want to contribute, welcome!
+I'm Kai Orion, a front-end web development and Material Design enthusiast.
 
-:sunglasses: Hello everyone, I am bre97-web, you can call me bre. 
+A brief self-introduction:
 
-:dart: My technology stack：
-- HTML
-- CSS
-  - **TailwindCSS**
-  - **Material web components**
-  - Fluent web components
-- Javascript
-  - **Typescript**
-  - **Vue**
-- Databases
-  - MySQL
-  - MongoDB
-- Other languages
-  - Java
+- Languages
+  - JavaScript/TypeScript
+  - F#
 
+- Frameworks
+  - Astro
+  - Vue
+  - VueJSX
+  - TailwindCSS
 
-
-![Picture](./Resource/homepage-static.png)
+My Github works are published in [@sandlada](https://github.com/sandlada). Welcome to my website [sandlada.com](https://sandlada.com). My personal [blog website](https://blog.sandlada.com) will be launched soon, so stay tuned.
